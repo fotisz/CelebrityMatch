@@ -1,6 +1,8 @@
 # CelebrityMatch
 Demo for Personality Insights (PI) Watson API
 
+![](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAjrAAAAJGFiYWU0ZjUyLTM2OTctNDNkMC05OTdmLTk0OTMyNWVjYWJkNg.png)
+
 The application does the following:
 
 Accepts two Twitter usernames as variables
